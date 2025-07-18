@@ -56,10 +56,10 @@ BBEdit is designed to be accessible for beginners but powerful enough for advanc
 ## 🖼️ Preview
 
 ![BBEdit Disk Browser](https://www.barebones.com/images/bbedit/disk-browser-lg.png)  
-*Explore and manage files efficiently with BBEdit’s disk browser.*
+
 
 ![BBEdit Main Window](https://www.barebones.com/images/bbedit/screenshot-main.jpg)  
-*Clean and customizable editing interface tailored for macOS.*
+
 
 ---
 

